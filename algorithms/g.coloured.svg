@@ -1825,7 +1825,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1869,10 +1869,10 @@
     <g
        id="g6390"
        transform="matrix(1.25,0,0,1.25,43.928571,264.86219)"
-       style="filter:url(#filter6834);stroke:#008080">
+       style="filter:url(#filter6834);stroke:#ff6600">
       <path
          d="m 144,238 0,0 c 0,9.94113 -16.56546,18 -37,18 -20.43454,0 -37,-8.05887 -37,-18 0,-9.94113 16.56546,-18 37,-18 20.43454,0 37,8.05887 37,18 z"
-         style="fill:none;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:none;stroke:#ff6600;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
          id="path6392" />
     </g>
     <text
@@ -1991,10 +1991,10 @@
     <g
        id="g6438"
        transform="matrix(1.25,0,0,1.25,43.928571,264.86219)"
-       style="filter:url(#filter7094);stroke:#008080">
+       style="filter:url(#filter7094);stroke:#ff6600">
       <path
          d="m 330,94 0,0 c 0,9.94113 -12.08832,18 -27,18 -14.91168,0 -27,-8.05887 -27,-18 0,-9.941132 12.08832,-18 27,-18 14.91168,0 27,8.058868 27,18 z"
-         style="fill:none;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:none;stroke:#ff6600;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
          id="path6440" />
     </g>
     <text
@@ -2111,10 +2111,10 @@
     <g
        id="g6486"
        transform="matrix(1.25,0,0,1.25,43.928571,264.86219)"
-       style="filter:url(#filter6694);stroke:#008080">
+       style="filter:url(#filter6694);stroke:#ff6600">
       <path
          d="m 365,310 0,0 c 0,9.94113 -12.08832,18 -27,18 -14.91168,0 -27,-8.05887 -27,-18 0,-9.94113 12.08832,-18 27,-18 14.91168,0 27,8.05887 27,18 z"
-         style="fill:none;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:none;stroke:#ff6600;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
          id="path6488" />
     </g>
     <text
