@@ -14,7 +14,10 @@
    id="svg8523"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="bi.svg">
+   sodipodi:docname="bi.svg"
+   inkscape:export-filename="/home/chastell/coding/showoff-phd-defence/algorithms/bi.png"
+   inkscape:export-xdpi="65"
+   inkscape:export-ydpi="65">
   <defs
      id="defs8525">
     <inkscape:perspective
@@ -3675,6 +3678,598 @@
          mode="normal"
          in="result2" />
     </filter>
+    <inkscape:perspective
+       id="perspective39932"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       id="filter38568-1"
+       height="1.3"
+       width="1.3"
+       y="-0.15000001"
+       x="-0.15000001"
+       inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
+       inkscape:menu="Textures"
+       inkscape:label="Silk carpet"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence38570-3"
+         type="turbulence"
+         numOctaves="2"
+         baseFrequency="0.01 0.11"
+         seed="10" />
+      <feColorMatrix
+         id="feColorMatrix38572-0"
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
+      <feComposite
+         id="feComposite38574-7"
+         in2="result5"
+         in="SourceGraphic"
+         operator="out" />
+      <feMorphology
+         id="feMorphology38576-0"
+         operator="dilate"
+         radius="1.3"
+         result="result3" />
+      <feTurbulence
+         id="feTurbulence38578-3"
+         numOctaves="3"
+         baseFrequency="0.08 0.05"
+         type="fractalNoise"
+         seed="7"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur38580-0"
+         stdDeviation="0.5"
+         result="result7" />
+      <feDisplacementMap
+         id="feDisplacementMap38582-5"
+         in2="result7"
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="3"
+         result="result4" />
+      <feComposite
+         k4="0"
+         k3="0"
+         id="feComposite38584-7"
+         in2="result4"
+         in="result4"
+         k1="1"
+         result="result2"
+         operator="arithmetic"
+         k2="1" />
+      <feBlend
+         id="feBlend38586-3"
+         in2="result4"
+         mode="normal"
+         in="result2" />
+    </filter>
+    <filter
+       id="filter38588-2"
+       height="1.3"
+       width="1.3"
+       y="-0.15000001"
+       x="-0.15000001"
+       inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
+       inkscape:menu="Textures"
+       inkscape:label="Silk carpet"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence38590-1"
+         type="turbulence"
+         numOctaves="2"
+         baseFrequency="0.01 0.11"
+         seed="10" />
+      <feColorMatrix
+         id="feColorMatrix38592-0"
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
+      <feComposite
+         id="feComposite38594-8"
+         in2="result5"
+         in="SourceGraphic"
+         operator="out" />
+      <feMorphology
+         id="feMorphology38596-1"
+         operator="dilate"
+         radius="1.3"
+         result="result3" />
+      <feTurbulence
+         id="feTurbulence38598-6"
+         numOctaves="3"
+         baseFrequency="0.08 0.05"
+         type="fractalNoise"
+         seed="7"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur38600-7"
+         stdDeviation="0.5"
+         result="result7" />
+      <feDisplacementMap
+         id="feDisplacementMap38602-5"
+         in2="result7"
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="3"
+         result="result4" />
+      <feComposite
+         k4="0"
+         k3="0"
+         id="feComposite38604-5"
+         in2="result4"
+         in="result4"
+         k1="1"
+         result="result2"
+         operator="arithmetic"
+         k2="1" />
+      <feBlend
+         id="feBlend38606-0"
+         in2="result4"
+         mode="normal"
+         in="result2" />
+    </filter>
+    <filter
+       id="filter38608-2"
+       height="1.3"
+       width="1.3"
+       y="-0.15000001"
+       x="-0.15000001"
+       inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
+       inkscape:menu="Textures"
+       inkscape:label="Silk carpet"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence38610-6"
+         type="turbulence"
+         numOctaves="2"
+         baseFrequency="0.01 0.11"
+         seed="10" />
+      <feColorMatrix
+         id="feColorMatrix38612-3"
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
+      <feComposite
+         id="feComposite38614-2"
+         in2="result5"
+         in="SourceGraphic"
+         operator="out" />
+      <feMorphology
+         id="feMorphology38616-0"
+         operator="dilate"
+         radius="1.3"
+         result="result3" />
+      <feTurbulence
+         id="feTurbulence38618-1"
+         numOctaves="3"
+         baseFrequency="0.08 0.05"
+         type="fractalNoise"
+         seed="7"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur38620-6"
+         stdDeviation="0.5"
+         result="result7" />
+      <feDisplacementMap
+         id="feDisplacementMap38622-0"
+         in2="result7"
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="3"
+         result="result4" />
+      <feComposite
+         k4="0"
+         k3="0"
+         id="feComposite38624-3"
+         in2="result4"
+         in="result4"
+         k1="1"
+         result="result2"
+         operator="arithmetic"
+         k2="1" />
+      <feBlend
+         id="feBlend38626-2"
+         in2="result4"
+         mode="normal"
+         in="result2" />
+    </filter>
+    <filter
+       id="filter38628-6"
+       height="1.3"
+       width="1.3"
+       y="-0.15000001"
+       x="-0.15000001"
+       inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
+       inkscape:menu="Textures"
+       inkscape:label="Silk carpet"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence38630-4"
+         type="turbulence"
+         numOctaves="2"
+         baseFrequency="0.01 0.11"
+         seed="10" />
+      <feColorMatrix
+         id="feColorMatrix38632-6"
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
+      <feComposite
+         id="feComposite38634-6"
+         in2="result5"
+         in="SourceGraphic"
+         operator="out" />
+      <feMorphology
+         id="feMorphology38636-4"
+         operator="dilate"
+         radius="1.3"
+         result="result3" />
+      <feTurbulence
+         id="feTurbulence38638-6"
+         numOctaves="3"
+         baseFrequency="0.08 0.05"
+         type="fractalNoise"
+         seed="7"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur38640-9"
+         stdDeviation="0.5"
+         result="result7" />
+      <feDisplacementMap
+         id="feDisplacementMap38642-4"
+         in2="result7"
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="3"
+         result="result4" />
+      <feComposite
+         k4="0"
+         k3="0"
+         id="feComposite38644-4"
+         in2="result4"
+         in="result4"
+         k1="1"
+         result="result2"
+         operator="arithmetic"
+         k2="1" />
+      <feBlend
+         id="feBlend38646-6"
+         in2="result4"
+         mode="normal"
+         in="result2" />
+    </filter>
+    <filter
+       id="filter38648-9"
+       height="1.3"
+       width="1.3"
+       y="-0.15000001"
+       x="-0.15000001"
+       inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
+       inkscape:menu="Textures"
+       inkscape:label="Silk carpet"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence38650-8"
+         type="turbulence"
+         numOctaves="2"
+         baseFrequency="0.01 0.11"
+         seed="10" />
+      <feColorMatrix
+         id="feColorMatrix38652-9"
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
+      <feComposite
+         id="feComposite38654-9"
+         in2="result5"
+         in="SourceGraphic"
+         operator="out" />
+      <feMorphology
+         id="feMorphology38656-8"
+         operator="dilate"
+         radius="1.3"
+         result="result3" />
+      <feTurbulence
+         id="feTurbulence38658-3"
+         numOctaves="3"
+         baseFrequency="0.08 0.05"
+         type="fractalNoise"
+         seed="7"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur38660-5"
+         stdDeviation="0.5"
+         result="result7" />
+      <feDisplacementMap
+         id="feDisplacementMap38662-5"
+         in2="result7"
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="3"
+         result="result4" />
+      <feComposite
+         k4="0"
+         k3="0"
+         id="feComposite38664-8"
+         in2="result4"
+         in="result4"
+         k1="1"
+         result="result2"
+         operator="arithmetic"
+         k2="1" />
+      <feBlend
+         id="feBlend38666-0"
+         in2="result4"
+         mode="normal"
+         in="result2" />
+    </filter>
+    <filter
+       id="filter38668-8"
+       height="1.3"
+       width="1.3"
+       y="-0.15000001"
+       x="-0.15000001"
+       inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
+       inkscape:menu="Textures"
+       inkscape:label="Silk carpet"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence38670-2"
+         type="turbulence"
+         numOctaves="2"
+         baseFrequency="0.01 0.11"
+         seed="10" />
+      <feColorMatrix
+         id="feColorMatrix38672-8"
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
+      <feComposite
+         id="feComposite38674-1"
+         in2="result5"
+         in="SourceGraphic"
+         operator="out" />
+      <feMorphology
+         id="feMorphology38676-4"
+         operator="dilate"
+         radius="1.3"
+         result="result3" />
+      <feTurbulence
+         id="feTurbulence38678-1"
+         numOctaves="3"
+         baseFrequency="0.08 0.05"
+         type="fractalNoise"
+         seed="7"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur38680-2"
+         stdDeviation="0.5"
+         result="result7" />
+      <feDisplacementMap
+         id="feDisplacementMap38682-0"
+         in2="result7"
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="3"
+         result="result4" />
+      <feComposite
+         k4="0"
+         k3="0"
+         id="feComposite38684-1"
+         in2="result4"
+         in="result4"
+         k1="1"
+         result="result2"
+         operator="arithmetic"
+         k2="1" />
+      <feBlend
+         id="feBlend38686-8"
+         in2="result4"
+         mode="normal"
+         in="result2" />
+    </filter>
+    <filter
+       id="filter38688-3"
+       height="1.3"
+       width="1.3"
+       y="-0.15000001"
+       x="-0.15000001"
+       inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
+       inkscape:menu="Textures"
+       inkscape:label="Silk carpet"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence38690-8"
+         type="turbulence"
+         numOctaves="2"
+         baseFrequency="0.01 0.11"
+         seed="10" />
+      <feColorMatrix
+         id="feColorMatrix38692-4"
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
+      <feComposite
+         id="feComposite38694-1"
+         in2="result5"
+         in="SourceGraphic"
+         operator="out" />
+      <feMorphology
+         id="feMorphology38696-4"
+         operator="dilate"
+         radius="1.3"
+         result="result3" />
+      <feTurbulence
+         id="feTurbulence38698-8"
+         numOctaves="3"
+         baseFrequency="0.08 0.05"
+         type="fractalNoise"
+         seed="7"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur38700-7"
+         stdDeviation="0.5"
+         result="result7" />
+      <feDisplacementMap
+         id="feDisplacementMap38702-6"
+         in2="result7"
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="3"
+         result="result4" />
+      <feComposite
+         k4="0"
+         k3="0"
+         id="feComposite38704-2"
+         in2="result4"
+         in="result4"
+         k1="1"
+         result="result2"
+         operator="arithmetic"
+         k2="1" />
+      <feBlend
+         id="feBlend38706-3"
+         in2="result4"
+         mode="normal"
+         in="result2" />
+    </filter>
+    <filter
+       id="filter38888-4"
+       height="1.3"
+       width="1.3"
+       y="-0.15000001"
+       x="-0.15000001"
+       inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
+       inkscape:menu="Textures"
+       inkscape:label="Silk carpet"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence38890-3"
+         type="turbulence"
+         numOctaves="2"
+         baseFrequency="0.01 0.11"
+         seed="10" />
+      <feColorMatrix
+         id="feColorMatrix38892-4"
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
+      <feComposite
+         id="feComposite38894-6"
+         in2="result5"
+         in="SourceGraphic"
+         operator="out" />
+      <feMorphology
+         id="feMorphology38896-2"
+         operator="dilate"
+         radius="1.3"
+         result="result3" />
+      <feTurbulence
+         id="feTurbulence38898-2"
+         numOctaves="3"
+         baseFrequency="0.08 0.05"
+         type="fractalNoise"
+         seed="7"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur38900-1"
+         stdDeviation="0.5"
+         result="result7" />
+      <feDisplacementMap
+         id="feDisplacementMap38902-9"
+         in2="result7"
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="3"
+         result="result4" />
+      <feComposite
+         k4="0"
+         k3="0"
+         id="feComposite38904-0"
+         in2="result4"
+         in="result4"
+         k1="1"
+         result="result2"
+         operator="arithmetic"
+         k2="1" />
+      <feBlend
+         id="feBlend38906-1"
+         in2="result4"
+         mode="normal"
+         in="result2" />
+    </filter>
+    <filter
+       id="filter38928-2"
+       height="1.3"
+       width="1.3"
+       y="-0.15000001"
+       x="-0.15000001"
+       inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
+       inkscape:menu="Textures"
+       inkscape:label="Silk carpet"
+       color-interpolation-filters="sRGB">
+      <feTurbulence
+         id="feTurbulence38930-8"
+         type="turbulence"
+         numOctaves="2"
+         baseFrequency="0.01 0.11"
+         seed="10" />
+      <feColorMatrix
+         id="feColorMatrix38932-3"
+         result="result5"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
+      <feComposite
+         id="feComposite38934-2"
+         in2="result5"
+         in="SourceGraphic"
+         operator="out" />
+      <feMorphology
+         id="feMorphology38936-9"
+         operator="dilate"
+         radius="1.3"
+         result="result3" />
+      <feTurbulence
+         id="feTurbulence38938-8"
+         numOctaves="3"
+         baseFrequency="0.08 0.05"
+         type="fractalNoise"
+         seed="7"
+         result="result6" />
+      <feGaussianBlur
+         id="feGaussianBlur38940-3"
+         stdDeviation="0.5"
+         result="result7" />
+      <feDisplacementMap
+         id="feDisplacementMap38942-4"
+         in2="result7"
+         in="result3"
+         xChannelSelector="R"
+         yChannelSelector="G"
+         scale="3"
+         result="result4" />
+      <feComposite
+         k4="0"
+         k3="0"
+         id="feComposite38944-8"
+         in2="result4"
+         in="result4"
+         k1="1"
+         result="result2"
+         operator="arithmetic"
+         k2="1" />
+      <feBlend
+         id="feBlend38946-7"
+         in2="result4"
+         mode="normal"
+         in="result2" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -3683,7 +4278,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0338983"
+     inkscape:zoom="1"
      inkscape:cx="546.93911"
      inkscape:cy="660.0562"
      inkscape:document-units="px"
@@ -3702,7 +4297,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3963,201 +4558,8 @@
          id="tspan38542" />
     </text>
     <g
-       id="g39850"
-       transform="translate(0,74)">
-      <g
-         style="fill:none;filter:url(#filter38568)"
-         id="g38408"
-         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
-        <rect
-           id="rect38410"
-           height="80"
-           width="240"
-           y="640"
-           x="300"
-           style="fill:none" />
-        <rect
-           id="rect38412"
-           height="80"
-           width="240"
-           y="640"
-           x="300"
-           style="fill:none;stroke:#000000;stroke-width:2" />
-      </g>
-      <g
-         style="filter:url(#filter38588)"
-         id="g38414"
-         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
-        <line
-           id="line38416"
-           y2="630.26398"
-           x2="420"
-           y1="600"
-           x1="420"
-           style="fill:none;stroke:#000000;stroke-width:2" />
-        <polygon
-           id="polygon38418"
-           points="420,637.764 415,627.764 420,630.264 425,627.764 "
-           style="fill:#000000" />
-        <polygon
-           id="polygon38420"
-           points="420,637.764 415,627.764 420,630.264 425,627.764 "
-           style="fill:none;stroke:#000000;stroke-width:2" />
-      </g>
-      <g
-         style="filter:url(#filter38608)"
-         id="g38422"
-         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
-        <line
-           id="line38424"
-           y2="630.26398"
-           x2="380"
-           y1="600"
-           x1="380"
-           style="fill:none;stroke:#000000;stroke-width:2" />
-        <polygon
-           id="polygon38426"
-           points="380,637.764 375,627.764 380,630.264 385,627.764 "
-           style="fill:#000000" />
-        <polygon
-           id="polygon38428"
-           points="380,637.764 375,627.764 380,630.264 385,627.764 "
-           style="fill:none;stroke:#000000;stroke-width:2" />
-      </g>
-      <g
-         style="filter:url(#filter38628)"
-         id="g38430"
-         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
-        <line
-           id="line38432"
-           y2="630.26398"
-           x2="460"
-           y1="600"
-           x1="460"
-           style="fill:none;stroke:#000000;stroke-width:2" />
-        <polygon
-           id="polygon38434"
-           points="460,637.764 455,627.764 460,630.264 465,627.764 "
-           style="fill:#000000" />
-        <polygon
-           id="polygon38436"
-           points="460,637.764 455,627.764 460,630.264 465,627.764 "
-           style="fill:none;stroke:#000000;stroke-width:2" />
-      </g>
-      <g
-         style="filter:url(#filter38648)"
-         id="g38438"
-         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
-        <line
-           id="line38440"
-           y2="630.26398"
-           x2="500"
-           y1="600"
-           x1="500"
-           style="fill:none;stroke:#000000;stroke-width:2" />
-        <polygon
-           id="polygon38442"
-           points="500,637.764 495,627.764 500,630.264 505,627.764 "
-           style="fill:#000000" />
-        <polygon
-           id="polygon38444"
-           points="500,637.764 495,627.764 500,630.264 505,627.764 "
-           style="fill:none;stroke:#000000;stroke-width:2" />
-      </g>
-      <g
-         style="filter:url(#filter38668)"
-         id="g38446"
-         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
-        <line
-           id="line38448"
-           y2="630.26398"
-           x2="340"
-           y1="600"
-           x1="340"
-           style="fill:none;stroke:#000000;stroke-width:2" />
-        <polygon
-           id="polygon38450"
-           points="340,637.764 335,627.764 340,630.264 345,627.764 "
-           style="fill:#000000" />
-        <polygon
-           id="polygon38452"
-           points="340,637.764 335,627.764 340,630.264 345,627.764 "
-           style="fill:none;stroke:#000000;stroke-width:2" />
-      </g>
-      <g
-         style="filter:url(#filter38688)"
-         id="g38454"
-         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
-        <line
-           id="line38456"
-           y2="750.26398"
-           x2="400"
-           y1="720"
-           x1="400"
-           style="fill:none;stroke:#000000;stroke-width:2" />
-        <polygon
-           id="polygon38458"
-           points="400,757.764 395,747.764 400,750.264 405,747.764 "
-           style="fill:#000000" />
-        <polygon
-           id="polygon38460"
-           points="400,757.764 395,747.764 400,750.264 405,747.764 "
-           style="fill:none;stroke:#000000;stroke-width:2" />
-      </g>
-      <text
-         id="text38462"
-         y="462.58981"
-         x="678.99725"
-         style="font-size:41.50947952px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:IM FELL English">
-        <tspan
-           id="tspan38464"
-           y="462.58981"
-           x="678.99725">5/2</tspan>
-      </text>
-      <g
-         style="filter:url(#filter38888)"
-         id="g38532"
-         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
-        <line
-           id="line38534"
-           y2="750.26398"
-           x2="440"
-           y1="720"
-           x1="440"
-           style="fill:none;stroke:#000000;stroke-width:2" />
-        <polygon
-           id="polygon38536"
-           points="440,757.764 435,747.764 440,750.264 445,747.764 "
-           style="fill:#000000" />
-        <polygon
-           id="polygon38538"
-           points="440,757.764 435,747.764 440,750.264 445,747.764 "
-           style="fill:none;stroke:#000000;stroke-width:2" />
-      </g>
-      <g
-         style="filter:url(#filter38928)"
-         id="g38544"
-         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
-        <line
-           id="line38546"
-           y2="680"
-           x2="140"
-           y1="680"
-           x1="250.26401"
-           style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:4" />
-        <polygon
-           id="polygon38548"
-           points="257.764,680 247.764,685 250.264,680 247.764,675 "
-           style="fill:#000000" />
-        <polygon
-           id="polygon38550"
-           points="257.764,680 247.764,685 250.264,680 247.764,675 "
-           style="fill:none;stroke:#000000;stroke-width:2" />
-      </g>
-    </g>
-    <g
        id="g39889"
-       transform="translate(0,6)">
+       transform="translate(0,312)">
       <g
          style="fill:none;filter:url(#filter38708)"
          id="g38466"
@@ -4325,6 +4727,199 @@
         <polygon
            id="polygon38558"
            points="257.764,420 247.764,425 250.264,420 247.764,415 "
+           style="fill:none;stroke:#000000;stroke-width:2" />
+      </g>
+    </g>
+    <g
+       id="g39850-4"
+       transform="translate(0.386298,-232.02764)">
+      <g
+         style="fill:none;filter:url(#filter38568-1)"
+         id="g38408-3"
+         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
+        <rect
+           id="rect38410-7"
+           height="80"
+           width="240"
+           y="640"
+           x="300"
+           style="fill:none" />
+        <rect
+           id="rect38412-8"
+           height="80"
+           width="240"
+           y="640"
+           x="300"
+           style="fill:none;stroke:#000000;stroke-width:2" />
+      </g>
+      <g
+         style="filter:url(#filter38588-2)"
+         id="g38414-4"
+         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
+        <line
+           id="line38416-3"
+           y2="630.26398"
+           x2="420"
+           y1="600"
+           x1="420"
+           style="fill:none;stroke:#000000;stroke-width:2" />
+        <polygon
+           id="polygon38418-7"
+           points="425,627.764 420,637.764 415,627.764 420,630.264 "
+           style="fill:#000000" />
+        <polygon
+           id="polygon38420-4"
+           points="425,627.764 420,637.764 415,627.764 420,630.264 "
+           style="fill:none;stroke:#000000;stroke-width:2" />
+      </g>
+      <g
+         style="filter:url(#filter38608-2)"
+         id="g38422-1"
+         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
+        <line
+           id="line38424-1"
+           y2="630.26398"
+           x2="380"
+           y1="600"
+           x1="380"
+           style="fill:none;stroke:#000000;stroke-width:2" />
+        <polygon
+           id="polygon38426-9"
+           points="385,627.764 380,637.764 375,627.764 380,630.264 "
+           style="fill:#000000" />
+        <polygon
+           id="polygon38428-6"
+           points="385,627.764 380,637.764 375,627.764 380,630.264 "
+           style="fill:none;stroke:#000000;stroke-width:2" />
+      </g>
+      <g
+         style="filter:url(#filter38628-6)"
+         id="g38430-5"
+         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
+        <line
+           id="line38432-3"
+           y2="630.26398"
+           x2="460"
+           y1="600"
+           x1="460"
+           style="fill:none;stroke:#000000;stroke-width:2" />
+        <polygon
+           id="polygon38434-4"
+           points="465,627.764 460,637.764 455,627.764 460,630.264 "
+           style="fill:#000000" />
+        <polygon
+           id="polygon38436-9"
+           points="465,627.764 460,637.764 455,627.764 460,630.264 "
+           style="fill:none;stroke:#000000;stroke-width:2" />
+      </g>
+      <g
+         style="filter:url(#filter38648-9)"
+         id="g38438-6"
+         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
+        <line
+           id="line38440-5"
+           y2="630.26398"
+           x2="500"
+           y1="600"
+           x1="500"
+           style="fill:none;stroke:#000000;stroke-width:2" />
+        <polygon
+           id="polygon38442-1"
+           points="505,627.764 500,637.764 495,627.764 500,630.264 "
+           style="fill:#000000" />
+        <polygon
+           id="polygon38444-6"
+           points="505,627.764 500,637.764 495,627.764 500,630.264 "
+           style="fill:none;stroke:#000000;stroke-width:2" />
+      </g>
+      <g
+         style="filter:url(#filter38668-8)"
+         id="g38446-6"
+         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
+        <line
+           id="line38448-3"
+           y2="630.26398"
+           x2="340"
+           y1="600"
+           x1="340"
+           style="fill:none;stroke:#000000;stroke-width:2" />
+        <polygon
+           id="polygon38450-6"
+           points="345,627.764 340,637.764 335,627.764 340,630.264 "
+           style="fill:#000000" />
+        <polygon
+           id="polygon38452-9"
+           points="345,627.764 340,637.764 335,627.764 340,630.264 "
+           style="fill:none;stroke:#000000;stroke-width:2" />
+      </g>
+      <g
+         style="filter:url(#filter38688-3)"
+         id="g38454-7"
+         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
+        <line
+           id="line38456-7"
+           y2="750.26398"
+           x2="400"
+           y1="720"
+           x1="400"
+           style="fill:none;stroke:#000000;stroke-width:2" />
+        <polygon
+           id="polygon38458-7"
+           points="405,747.764 400,757.764 395,747.764 400,750.264 "
+           style="fill:#000000" />
+        <polygon
+           id="polygon38460-3"
+           points="405,747.764 400,757.764 395,747.764 400,750.264 "
+           style="fill:none;stroke:#000000;stroke-width:2" />
+      </g>
+      <text
+         id="text38462-1"
+         y="462.58981"
+         x="678.99725"
+         style="font-size:41.50947952px;font-style:normal;font-weight:normal;text-anchor:middle;fill:#000000;font-family:IM FELL English">
+        <tspan
+           id="tspan38464-8"
+           y="462.58981"
+           x="678.99725">5/2</tspan>
+      </text>
+      <g
+         style="filter:url(#filter38888-4)"
+         id="g38532-0"
+         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
+        <line
+           id="line38534-5"
+           y2="750.26398"
+           x2="440"
+           y1="720"
+           x1="440"
+           style="fill:none;stroke:#000000;stroke-width:2" />
+        <polygon
+           id="polygon38536-1"
+           points="445,747.764 440,757.764 435,747.764 440,750.264 "
+           style="fill:#000000" />
+        <polygon
+           id="polygon38538-9"
+           points="445,747.764 440,757.764 435,747.764 440,750.264 "
+           style="fill:none;stroke:#000000;stroke-width:2" />
+      </g>
+      <g
+         style="filter:url(#filter38928-2)"
+         id="g38544-6"
+         transform="matrix(0.91925425,0,0,0.91925425,292.91046,-173.74092)">
+        <line
+           id="line38546-8"
+           y2="680"
+           x2="140"
+           y1="680"
+           x1="250.26401"
+           style="fill:none;stroke:#000000;stroke-width:2;stroke-dasharray:4" />
+        <polygon
+           id="polygon38548-2"
+           points="247.764,675 257.764,680 247.764,685 250.264,680 "
+           style="fill:#000000" />
+        <polygon
+           id="polygon38550-3"
+           points="247.764,675 257.764,680 247.764,685 250.264,680 "
            style="fill:none;stroke:#000000;stroke-width:2" />
       </g>
     </g>
