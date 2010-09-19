@@ -59,7 +59,7 @@
 
 ![G](g.png)
 
-## kolorowanie grafów niezgodności
+## kolorowanie bloków nakrycia β<sub>Q</sub><br />na podstawie grafu niezgodności
 
 
 
@@ -69,4 +69,14 @@
 
 ![G pokolorowany](g.coloured.png)
 
-## kolorowanie grafów niezgodności
+## kolorowanie bloków nakrycia β<sub>Q</sub><br />na podstawie grafu niezgodności
+
+
+
+!SLIDE
+
+# konstrukcja β<sub>G</sub> i β<sub>Q<sub>V</sub></sub>
+
+![Qv](qv.png)
+
+## łączenie bloków nakrycia β<sub>Q</sub><br />na podstawie grafu niezgodności
