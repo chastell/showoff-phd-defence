@@ -30,7 +30,7 @@
       <ul>
         <li>rozkład funkcji</li>
         <li>rachunek nakryć</li>
-        <li>funkcja F ma dekompozycję funkcjonalną względem U i V jeśli istnieje nakrycie β<sub>G</sub> takie, że β<sub>V</sub> ≤ β<sub>G</sub> oraz β<sub>U</sub> • β<sub>G</sub> ≤ β<sub>Y</sub></li>
+        <li>funkcja F ma dekompozycję funkcjonalną względem U i V jeśli istnieje nakrycie β<sub>G</sub> takie, że β<sub>V</sub> ≤ β<sub>G</sub> oraz β<sub>U</sub> • β<sub>G</sub> ≤ β<sub>Y</sub></li>
       </ul>
     </td>
     <td>
