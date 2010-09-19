@@ -77,3 +77,34 @@
     </td>
   </tr>
 </table>
+
+
+
+!SLIDE
+
+# kodowanie stanów automatu
+
+<table class='lay'>
+  <tr>
+    <td>
+      <table class='fsm' style='font-size: 1.4em;'>
+        <thead>
+          <tr><th>X</th><th>Q</th><th></th><th>Q’</th><th>Y</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>0     0</td><td>0     0</td><td></td><td>0     1</td><td>0     0</td></tr>
+          <tr><td>0     1</td><td>0     1</td><td></td><td>1     0</td><td>0     1</td></tr>
+          <tr><td>1     0</td><td>1     0</td><td></td><td>0     1</td><td>1     0</td></tr>
+          <tr><td>1     1</td><td>0     1</td><td></td><td>0     0</td><td>1     1</td></tr>
+        </tbody>
+      </table>
+    </td>
+    <td>
+      <p><img src='image/fsm/fsm.encoded.png' /></p>
+    </td>
+  </tr>
+</table>
+
+## liczba różnych kodowań o minimalnej liczbie bitów<br />rośnie wraz z silnią liczby stanów
+
+## kodowanie o minimalnej liczbie bitów nie zawsze daje najlepsze wyniki
