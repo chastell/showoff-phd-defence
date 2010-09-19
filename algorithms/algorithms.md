@@ -50,3 +50,23 @@
 ![βQu](qu.png)
 
 ## łączenie bloków nakrycia β<sub>Q</sub><br />w zależności od utraty informacji (wagi krawędzi grafu)
+
+
+
+!SLIDE
+
+# konstrukcja β<sub>G</sub> i β<sub>Q<sub>V</sub></sub>
+
+![G](g.png)
+
+## kolorowanie grafów niezgodności
+
+
+
+!SLIDE
+
+# konstrukcja β<sub>G</sub> i β<sub>Q<sub>V</sub></sub>
+
+![G pokolorowany](g.coloured.png)
+
+## kolorowanie grafów niezgodności
