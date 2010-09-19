@@ -51,6 +51,18 @@ sub {
   border-bottom: solid;
 }
 
+.fsm.state {
+  font-size: 1.2em;
+}
+
+.fsm.state td {
+  padding: 0 0.5em;
+}
+
+.fsm.state td:empty {
+  padding: 0;
+}
+
 .lay {
   margin: auto;
   width: 85%;
