@@ -39,6 +39,10 @@ sub {
   padding: 0.5em 1em;
 }
 
+.fsm sub {
+  font-size: 0.8em;
+}
+
 .fsm td:empty, .fsm th:empty {
   padding: 0;
 }
@@ -56,11 +60,15 @@ sub {
 }
 
 .fsm.state td {
-  padding: 0 0.5em;
+  padding: 0 0.7em;
 }
 
 .fsm.state td:empty {
   padding: 0;
+}
+
+.fsm.state.encoded td:nth-child(2), .fsm.state.encoded td:nth-child(5), .fsm.state.encoded th:nth-child(2), .fsm.state.encoded th:nth-child(5) {
+  border-right: dashed;
 }
 
 .lay {
