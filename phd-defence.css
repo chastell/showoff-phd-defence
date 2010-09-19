@@ -1,0 +1,66 @@
+body {
+  background-color: black;
+  font-family: 'IM Fell English', 'Georgia', serif;
+  line-height: 1.3;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'IM Fell English SC', 'Georgia', serif;
+  font-size: 2.5em;
+  margin-bottom: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 0.8em;
+}
+
+sub {
+  font-size: 0.5em;
+}
+
+.content {
+  margin-top: 1.5em !important;
+}
+
+.lay {
+  margin: auto;
+  width: 80%;
+}
+
+.lay li {
+  margin: 1em 0;
+}
+
+.lay td {
+  padding: 0 0.5em;
+  vertical-align: middle;
+}
+
+.lay ul {
+  font-size: 1.8em;
+}
+
+.lay .left, .lay .right {
+  width: 50%;
+}
+
+.lay .left {
+  float: left;
+}
+
+.lay .right {
+  float: right;
+}
+
+.slide {
+  background: url(/image/plans.png);
+}
+
+#footer {
+  display: none;
+}
