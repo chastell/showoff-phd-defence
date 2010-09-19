@@ -32,7 +32,7 @@ sub {
 }
 
 .lay .fsm td, .lay .fsm th {
-  border-right: solid black;
+  border-right: solid;
   padding: 0.5em 1em;
 }
 
@@ -45,7 +45,7 @@ sub {
 }
 
 .fsm thead {
-  border-bottom: solid black;
+  border-bottom: solid;
 }
 
 .lay {
@@ -80,6 +80,28 @@ sub {
 
 .slide {
   background: url(/image/plans.png);
+}
+
+.uv {
+  font-size: 1.5em;
+  margin: 6em auto 3em;
+  width: 85%;
+}
+
+.uv td, .uv th {
+  border-right: solid;
+}
+
+.uv td:last-child, .uv th:last-child {
+  border-right: none;
+}
+
+.uv td:nth-child(3) {
+  font-weight: bold;
+}
+
+.uv thead {
+  border-bottom: solid;
 }
 
 #footer {
