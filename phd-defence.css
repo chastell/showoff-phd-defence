@@ -24,7 +24,7 @@ sub {
 }
 
 .content {
-  margin-top: 1.5em !important;
+  margin-top: 0 !important;
 }
 
 .fsm {
@@ -50,7 +50,7 @@ sub {
 
 .lay {
   margin: auto;
-  width: 80%;
+  width: 85%;
 }
 
 .lay li {
