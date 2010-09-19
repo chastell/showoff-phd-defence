@@ -202,3 +202,27 @@
     <tr><th>suma</th><th>98</th><th>101</th><th>122</th><th>123</th><th>131</th><th>203</th></tr>
   </tfoot>
 </table>
+
+
+
+!SLIDE
+
+# komórki 4/1, narzędzia komercyjne
+
+![4/1](41.png)
+
+
+
+!SLIDE
+
+# komórki 5/1 i 4/2, narzędzia akademickie i komercyjne
+
+![5/1 i 4/2](51.42.png)
+
+
+
+!SLIDE
+
+# komórki 5/1, narzędzia akademickie
+
+![5/1](51.png)
