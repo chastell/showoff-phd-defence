@@ -108,3 +108,29 @@
 ## liczba różnych kodowań o minimalnej liczbie bitów<br />rośnie wraz z silnią liczby stanów
 
 ## kodowanie o minimalnej liczbie bitów nie zawsze daje najlepsze wyniki
+
+
+
+!SLIDE
+
+# kodowanie + odwzorowanie
+
+<table class='lay'>
+  <tr>
+    <td>
+      <ul>
+        <li>problem doboru kodowania stanów</li>
+        <li>problem wyboru U i V</li>
+        <li>problem stworzenia G</li>
+        <li>dekompozycja H zależy od powyższych</li>
+      </ul>
+    </td>
+    <td>
+      <p><img src='image/fpga/binary.png' /></p>
+    </td>
+  </tr>
+</table>
+
+## metody kodowania stanów:<br />sekwencyjna, kod Graya, JEDI, NOVA, one-hot, Secode
+
+## powszechnie stosuje się kodowanie + odwzorowanie<br />z nadzieją, że funkcja będzie efektywnie realizowalna
