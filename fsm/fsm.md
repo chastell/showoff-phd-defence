@@ -84,7 +84,7 @@
 
 # kodowanie stanów automatu
 
-<table class='lay'>
+<table class='lay' style='width: 75%;'>
   <tr>
     <td>
       <table class='fsm' style='font-size: 1.4em;'>
