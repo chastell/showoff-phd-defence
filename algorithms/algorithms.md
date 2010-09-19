@@ -80,3 +80,13 @@
 ![Qv](qv.png)
 
 ## łączenie bloków nakrycia β<sub>Q</sub><br />na podstawie grafu niezgodności
+
+
+
+!SLIDE
+
+# konstrukcja β<sub>G</sub> i β<sub>Q<sub>V</sub></sub>
+
+![bi](bi.png)
+
+## <br />równoległa konstrukcja β<sub>G</sub> i β<sub>Q<sub>V</sub></sub>
