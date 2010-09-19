@@ -27,6 +27,27 @@ sub {
   margin-top: 1.5em !important;
 }
 
+.fsm {
+  font-size: 1.0em;
+}
+
+.lay .fsm td, .lay .fsm th {
+  border-right: solid black;
+  padding: 0.5em 1em;
+}
+
+.fsm td:empty, .fsm th:empty {
+  padding: 0;
+}
+
+.fsm td:last-child, .fsm th:last-child {
+  border-right: none;
+}
+
+.fsm thead {
+  border-bottom: solid black;
+}
+
 .lay {
   margin: auto;
   width: 80%;

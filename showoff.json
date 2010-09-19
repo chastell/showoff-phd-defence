@@ -1,4 +1,5 @@
 [
   { "section": "cover" },
-  { "section": "fpga"  }
+  { "section": "fpga"  },
+  { "section": "fsm"   }
 ]
