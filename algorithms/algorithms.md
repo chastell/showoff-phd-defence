@@ -40,3 +40,13 @@
 </table>
 
 ## dostarczana część istotnej informacji zależy od wejścia
+
+
+
+!SLIDE
+
+# konstrukcja β<sub>Q<sub>U</sub></sub>
+
+![βQu](qu.png)
+
+## łączenie bloków nakrycia β<sub>Q</sub><br />w zależności od utraty informacji (wagi krawędzi grafu)
