@@ -102,7 +102,7 @@ sub {
 }
 
 .res tfoot th:nth-child(2) {
-  color: blue;
+  background: url(/image/results/round.png) no-repeat center;
 }
 
 .res thead {
