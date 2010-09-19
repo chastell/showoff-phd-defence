@@ -117,13 +117,13 @@
     <td>
       <ul>
         <li>wyznaczanie dekompozycji:</li>
-        <li style='color: black;'>dobór U i V</li>
-        <li style='color: black;'>konstrukcja β<sub>Q<sub>U</sub></sub></li>
-        <li style='color: black;'>konstrukcja β<sub>G</sub> i β<sub>Q<sub>V</sub></sub></li>
+        <li style='color: green;'>dobór U i V</li>
+        <li style='color: teal;'>konstrukcja β<sub>Q<sub>U</sub></sub></li>
+        <li style='color: blue;'>konstrukcja β<sub>G</sub> i β<sub>Q<sub>V</sub></sub></li>
       </ul>
     </td>
     <td>
-      <p><img src='image/symbolic/symbolic.png' /></p>
+      <p><img src='image/symbolic/symbolic.col.png' /></p>
     </td>
   </tr>
 </table>
