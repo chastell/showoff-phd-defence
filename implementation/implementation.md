@@ -2,7 +2,7 @@
 
 # implementacja
 
-# …UML…
+![UML](uml.png)
 
 ## publicznie dostępna biblioteka <i>art décomp</i>
 
