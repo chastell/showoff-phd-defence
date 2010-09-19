@@ -82,7 +82,7 @@ sub {
 }
 
 .res {
-  font-size: 1.2em;
+  font-size: 1.1em;
   margin: auto;
   width: 85%;
 }
@@ -114,7 +114,7 @@ sub {
 }
 
 .res.wide {
-  margin-top: 6em;
+  margin-top: 4em;
 }
 
 .res.wide thead {
