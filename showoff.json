@@ -1,6 +1,7 @@
 [
-  { "section": "cover"    },
-  { "section": "fpga"     },
-  { "section": "fsm"      },
-  { "section": "symbolic" }
+  { "section": "cover"      },
+  { "section": "fpga"       },
+  { "section": "fsm"        },
+  { "section": "symbolic"   },
+  { "section": "algorithms" }
 ]
