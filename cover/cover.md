@@ -7,7 +7,7 @@
 
 # Symbolic Functional Decomposition Method<br />for Implementation of Finite State Machines<br />in FPGA Devices
 
-## Piotr Szotkowski
+<h2 style='font-size: 2.1em;'>Piotr Szotkowski</h2>
 
 ##  
 

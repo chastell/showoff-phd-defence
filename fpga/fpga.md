@@ -9,7 +9,7 @@
         <li>układ reprogramowalny</li>
         <li>sieć komórek</li>
         <li>zalety: wygoda i niski koszt prototypowania</li>
-        <li>wada: złożoność implementacji</li>
+        <li>wada: złożoność procesu syntezy logicznej</li>
       </ul>
     </td>
     <td>

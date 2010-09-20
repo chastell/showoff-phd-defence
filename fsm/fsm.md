@@ -148,7 +148,7 @@
 
 ## liczba różnych kodowań o minimalnej liczbie bitów<br />rośnie wraz z silnią liczby stanów
 
-## kodowanie o minimalnej liczbie bitów nie zawsze daje najlepsze wyniki
+## kodowanie o minimalnej liczbie bitów nie zawsze gwarantuje najlepsze wyniki
 
 
 

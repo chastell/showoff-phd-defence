@@ -167,10 +167,6 @@ sup {
   border-right: none;
 }
 
-.uv td:nth-child(3) {
-  font-weight: bold;
-}
-
 .uv thead {
   border-bottom: solid;
 }

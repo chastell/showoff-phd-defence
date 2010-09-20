@@ -1,5 +1,22 @@
 !SLIDE
 
+##  
+##  
+##  
+##  
+
+# Symbolic Functional Decomposition Method<br />for Implementation of Finite State Machines<br />in FPGA Devices
+
+<h2 style='font-size: 2.1em;'>Piotr Szotkowski</h2>
+
+##  
+
+## promotor: prof. dr hab. inż. Tadeusz Łuba
+
+
+
+!SLIDE
+
 # symboliczna dekompozycja funkcjonalna
 
 <div style='height: 3em;'></div>
