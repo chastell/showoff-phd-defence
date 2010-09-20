@@ -22,8 +22,12 @@ p {
   font-size: 0.8em;
 }
 
-sub {
+sub, sup {
   font-size: 0.6em;
+}
+
+sup {
+  vertical-align: super;
 }
 
 .content {

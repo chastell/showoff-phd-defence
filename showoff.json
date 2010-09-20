@@ -6,5 +6,6 @@
   { "section": "algorithms"     },
   { "section": "implementation" },
   { "section": "results"        },
-  { "section": "summary"        }
+  { "section": "summary"        },
+  { "section": "extra"          }
 ]
