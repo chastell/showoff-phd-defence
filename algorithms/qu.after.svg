@@ -9,40 +9,31 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
-   id="svg5021"
+   id="svg2873"
    version="1.1"
    inkscape:version="0.47 r22583"
+   width="371.25"
+   height="482.5"
+   xml:space="preserve"
    sodipodi:docname="qu.after.svg"
    inkscape:export-filename="/home/chastell/coding/showoff-phd-defence/algorithms/qu.after.png"
-   inkscape:export-xdpi="45"
-   inkscape:export-ydpi="45">
-  <defs
-     id="defs5023">
-    <inkscape:perspective
+   inkscape:export-xdpi="60"
+   inkscape:export-ydpi="60"><metadata
+     id="metadata2879"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs2877"><inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 526.18109 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="744.09448 : 526.18109 : 1"
-       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
-       id="perspective5029" />
-    <clipPath
-       id="clipPath5049"
-       clipPathUnits="userSpaceOnUse">
-      <path
-         id="path5051"
-         d="m 36,36 588,0 0,122 -588,0 0,-122 z" />
-    </clipPath>
-    <inkscape:perspective
-       id="perspective5039"
-       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
-       inkscape:vp_z="1 : 0.5 : 1"
-       inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 0.5 : 1"
-       sodipodi:type="inkscape:persp3d" />
-    <filter
-       id="filter6120"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       id="perspective2881" /><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2891"><path
+         d="m 36,36 225,0 0,314 -225,0 0,-314 z"
+         id="path2893" /></clipPath><filter
+       id="filter3022"
        height="1.3"
        width="1.3"
        y="-0.15"
@@ -50,62 +41,51 @@
        inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
        inkscape:menu="Textures"
        inkscape:label="Silk carpet"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence6122"
+       color-interpolation-filters="sRGB"><feTurbulence
+         id="feTurbulence3024"
          type="turbulence"
          numOctaves="2"
          baseFrequency="0.01 0.11"
-         seed="10" />
-      <feColorMatrix
-         id="feColorMatrix6124"
+         seed="10" /><feColorMatrix
+         id="feColorMatrix3026"
          result="result5"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
-      <feComposite
-         id="feComposite6126"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " /><feComposite
+         id="feComposite3028"
          in2="result5"
          in="SourceGraphic"
-         operator="out" />
-      <feMorphology
-         id="feMorphology6128"
+         operator="out" /><feMorphology
+         id="feMorphology3030"
          operator="dilate"
          radius="1.3"
-         result="result3" />
-      <feTurbulence
-         id="feTurbulence6130"
+         result="result3" /><feTurbulence
+         id="feTurbulence3032"
          numOctaves="3"
          baseFrequency="0.08 0.05"
          type="fractalNoise"
          seed="7"
-         result="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur6132"
+         result="result6" /><feGaussianBlur
+         id="feGaussianBlur3034"
          stdDeviation="0.5"
-         result="result7" />
-      <feDisplacementMap
-         id="feDisplacementMap6134"
+         result="result7" /><feDisplacementMap
+         id="feDisplacementMap3036"
          in2="result7"
          in="result3"
          xChannelSelector="R"
          yChannelSelector="G"
          scale="3"
-         result="result4" />
-      <feComposite
-         id="feComposite6136"
+         result="result4" /><feComposite
+         id="feComposite3038"
          in2="result4"
          in="result4"
          k1="1"
          result="result2"
          operator="arithmetic"
-         k2="1" />
-      <feBlend
-         id="feBlend6138"
+         k2="1" /><feBlend
+         id="feBlend3040"
          in2="result4"
          mode="normal"
-         in="result2" />
-    </filter>
-    <filter
-       id="filter6140"
+         in="result2" /></filter><filter
+       id="filter3042"
        height="1.3"
        width="1.3"
        y="-0.15"
@@ -113,62 +93,51 @@
        inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
        inkscape:menu="Textures"
        inkscape:label="Silk carpet"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence6142"
+       color-interpolation-filters="sRGB"><feTurbulence
+         id="feTurbulence3044"
          type="turbulence"
          numOctaves="2"
          baseFrequency="0.01 0.11"
-         seed="10" />
-      <feColorMatrix
-         id="feColorMatrix6144"
+         seed="10" /><feColorMatrix
+         id="feColorMatrix3046"
          result="result5"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
-      <feComposite
-         id="feComposite6146"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " /><feComposite
+         id="feComposite3048"
          in2="result5"
          in="SourceGraphic"
-         operator="out" />
-      <feMorphology
-         id="feMorphology6148"
+         operator="out" /><feMorphology
+         id="feMorphology3050"
          operator="dilate"
          radius="1.3"
-         result="result3" />
-      <feTurbulence
-         id="feTurbulence6150"
+         result="result3" /><feTurbulence
+         id="feTurbulence3052"
          numOctaves="3"
          baseFrequency="0.08 0.05"
          type="fractalNoise"
          seed="7"
-         result="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur6152"
+         result="result6" /><feGaussianBlur
+         id="feGaussianBlur3054"
          stdDeviation="0.5"
-         result="result7" />
-      <feDisplacementMap
-         id="feDisplacementMap6154"
+         result="result7" /><feDisplacementMap
+         id="feDisplacementMap3056"
          in2="result7"
          in="result3"
          xChannelSelector="R"
          yChannelSelector="G"
          scale="3"
-         result="result4" />
-      <feComposite
-         id="feComposite6156"
+         result="result4" /><feComposite
+         id="feComposite3058"
          in2="result4"
          in="result4"
          k1="1"
          result="result2"
          operator="arithmetic"
-         k2="1" />
-      <feBlend
-         id="feBlend6158"
+         k2="1" /><feBlend
+         id="feBlend3060"
          in2="result4"
          mode="normal"
-         in="result2" />
-    </filter>
-    <filter
-       id="filter6160"
+         in="result2" /></filter><filter
+       id="filter3062"
        height="1.3"
        width="1.3"
        y="-0.15"
@@ -176,62 +145,51 @@
        inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
        inkscape:menu="Textures"
        inkscape:label="Silk carpet"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence6162"
+       color-interpolation-filters="sRGB"><feTurbulence
+         id="feTurbulence3064"
          type="turbulence"
          numOctaves="2"
          baseFrequency="0.01 0.11"
-         seed="10" />
-      <feColorMatrix
-         id="feColorMatrix6164"
+         seed="10" /><feColorMatrix
+         id="feColorMatrix3066"
          result="result5"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
-      <feComposite
-         id="feComposite6166"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " /><feComposite
+         id="feComposite3068"
          in2="result5"
          in="SourceGraphic"
-         operator="out" />
-      <feMorphology
-         id="feMorphology6168"
+         operator="out" /><feMorphology
+         id="feMorphology3070"
          operator="dilate"
          radius="1.3"
-         result="result3" />
-      <feTurbulence
-         id="feTurbulence6170"
+         result="result3" /><feTurbulence
+         id="feTurbulence3072"
          numOctaves="3"
          baseFrequency="0.08 0.05"
          type="fractalNoise"
          seed="7"
-         result="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur6172"
+         result="result6" /><feGaussianBlur
+         id="feGaussianBlur3074"
          stdDeviation="0.5"
-         result="result7" />
-      <feDisplacementMap
-         id="feDisplacementMap6174"
+         result="result7" /><feDisplacementMap
+         id="feDisplacementMap3076"
          in2="result7"
          in="result3"
          xChannelSelector="R"
          yChannelSelector="G"
          scale="3"
-         result="result4" />
-      <feComposite
-         id="feComposite6176"
+         result="result4" /><feComposite
+         id="feComposite3078"
          in2="result4"
          in="result4"
          k1="1"
          result="result2"
          operator="arithmetic"
-         k2="1" />
-      <feBlend
-         id="feBlend6178"
+         k2="1" /><feBlend
+         id="feBlend3080"
          in2="result4"
          mode="normal"
-         in="result2" />
-    </filter>
-    <filter
-       id="filter6180"
+         in="result2" /></filter><filter
+       id="filter3082"
        height="1.3"
        width="1.3"
        y="-0.15"
@@ -239,62 +197,51 @@
        inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
        inkscape:menu="Textures"
        inkscape:label="Silk carpet"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence6182"
+       color-interpolation-filters="sRGB"><feTurbulence
+         id="feTurbulence3084"
          type="turbulence"
          numOctaves="2"
          baseFrequency="0.01 0.11"
-         seed="10" />
-      <feColorMatrix
-         id="feColorMatrix6184"
+         seed="10" /><feColorMatrix
+         id="feColorMatrix3086"
          result="result5"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
-      <feComposite
-         id="feComposite6186"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " /><feComposite
+         id="feComposite3088"
          in2="result5"
          in="SourceGraphic"
-         operator="out" />
-      <feMorphology
-         id="feMorphology6188"
+         operator="out" /><feMorphology
+         id="feMorphology3090"
          operator="dilate"
          radius="1.3"
-         result="result3" />
-      <feTurbulence
-         id="feTurbulence6190"
+         result="result3" /><feTurbulence
+         id="feTurbulence3092"
          numOctaves="3"
          baseFrequency="0.08 0.05"
          type="fractalNoise"
          seed="7"
-         result="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur6192"
+         result="result6" /><feGaussianBlur
+         id="feGaussianBlur3094"
          stdDeviation="0.5"
-         result="result7" />
-      <feDisplacementMap
-         id="feDisplacementMap6194"
+         result="result7" /><feDisplacementMap
+         id="feDisplacementMap3096"
          in2="result7"
          in="result3"
          xChannelSelector="R"
          yChannelSelector="G"
          scale="3"
-         result="result4" />
-      <feComposite
-         id="feComposite6196"
+         result="result4" /><feComposite
+         id="feComposite3098"
          in2="result4"
          in="result4"
          k1="1"
          result="result2"
          operator="arithmetic"
-         k2="1" />
-      <feBlend
-         id="feBlend6198"
+         k2="1" /><feBlend
+         id="feBlend3100"
          in2="result4"
          mode="normal"
-         in="result2" />
-    </filter>
-    <filter
-       id="filter6200"
+         in="result2" /></filter><filter
+       id="filter3102"
        height="1.3"
        width="1.3"
        y="-0.15"
@@ -302,62 +249,51 @@
        inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
        inkscape:menu="Textures"
        inkscape:label="Silk carpet"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence6202"
+       color-interpolation-filters="sRGB"><feTurbulence
+         id="feTurbulence3104"
          type="turbulence"
          numOctaves="2"
          baseFrequency="0.01 0.11"
-         seed="10" />
-      <feColorMatrix
-         id="feColorMatrix6204"
+         seed="10" /><feColorMatrix
+         id="feColorMatrix3106"
          result="result5"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
-      <feComposite
-         id="feComposite6206"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " /><feComposite
+         id="feComposite3108"
          in2="result5"
          in="SourceGraphic"
-         operator="out" />
-      <feMorphology
-         id="feMorphology6208"
+         operator="out" /><feMorphology
+         id="feMorphology3110"
          operator="dilate"
          radius="1.3"
-         result="result3" />
-      <feTurbulence
-         id="feTurbulence6210"
+         result="result3" /><feTurbulence
+         id="feTurbulence3112"
          numOctaves="3"
          baseFrequency="0.08 0.05"
          type="fractalNoise"
          seed="7"
-         result="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur6212"
+         result="result6" /><feGaussianBlur
+         id="feGaussianBlur3114"
          stdDeviation="0.5"
-         result="result7" />
-      <feDisplacementMap
-         id="feDisplacementMap6214"
+         result="result7" /><feDisplacementMap
+         id="feDisplacementMap3116"
          in2="result7"
          in="result3"
          xChannelSelector="R"
          yChannelSelector="G"
          scale="3"
-         result="result4" />
-      <feComposite
-         id="feComposite6216"
+         result="result4" /><feComposite
+         id="feComposite3118"
          in2="result4"
          in="result4"
          k1="1"
          result="result2"
          operator="arithmetic"
-         k2="1" />
-      <feBlend
-         id="feBlend6218"
+         k2="1" /><feBlend
+         id="feBlend3120"
          in2="result4"
          mode="normal"
-         in="result2" />
-    </filter>
-    <filter
-       id="filter6220"
+         in="result2" /></filter><filter
+       id="filter3122"
        height="1.3"
        width="1.3"
        y="-0.15"
@@ -365,62 +301,51 @@
        inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
        inkscape:menu="Textures"
        inkscape:label="Silk carpet"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence6222"
+       color-interpolation-filters="sRGB"><feTurbulence
+         id="feTurbulence3124"
          type="turbulence"
          numOctaves="2"
          baseFrequency="0.01 0.11"
-         seed="10" />
-      <feColorMatrix
-         id="feColorMatrix6224"
+         seed="10" /><feColorMatrix
+         id="feColorMatrix3126"
          result="result5"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
-      <feComposite
-         id="feComposite6226"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " /><feComposite
+         id="feComposite3128"
          in2="result5"
          in="SourceGraphic"
-         operator="out" />
-      <feMorphology
-         id="feMorphology6228"
+         operator="out" /><feMorphology
+         id="feMorphology3130"
          operator="dilate"
          radius="1.3"
-         result="result3" />
-      <feTurbulence
-         id="feTurbulence6230"
+         result="result3" /><feTurbulence
+         id="feTurbulence3132"
          numOctaves="3"
          baseFrequency="0.08 0.05"
          type="fractalNoise"
          seed="7"
-         result="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur6232"
+         result="result6" /><feGaussianBlur
+         id="feGaussianBlur3134"
          stdDeviation="0.5"
-         result="result7" />
-      <feDisplacementMap
-         id="feDisplacementMap6234"
+         result="result7" /><feDisplacementMap
+         id="feDisplacementMap3136"
          in2="result7"
          in="result3"
          xChannelSelector="R"
          yChannelSelector="G"
          scale="3"
-         result="result4" />
-      <feComposite
-         id="feComposite6236"
+         result="result4" /><feComposite
+         id="feComposite3138"
          in2="result4"
          in="result4"
          k1="1"
          result="result2"
          operator="arithmetic"
-         k2="1" />
-      <feBlend
-         id="feBlend6238"
+         k2="1" /><feBlend
+         id="feBlend3140"
          in2="result4"
          mode="normal"
-         in="result2" />
-    </filter>
-    <filter
-       id="filter6240"
+         in="result2" /></filter><filter
+       id="filter3142"
        height="1.3"
        width="1.3"
        y="-0.15"
@@ -428,62 +353,51 @@
        inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
        inkscape:menu="Textures"
        inkscape:label="Silk carpet"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence6242"
+       color-interpolation-filters="sRGB"><feTurbulence
+         id="feTurbulence3144"
          type="turbulence"
          numOctaves="2"
          baseFrequency="0.01 0.11"
-         seed="10" />
-      <feColorMatrix
-         id="feColorMatrix6244"
+         seed="10" /><feColorMatrix
+         id="feColorMatrix3146"
          result="result5"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
-      <feComposite
-         id="feComposite6246"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " /><feComposite
+         id="feComposite3148"
          in2="result5"
          in="SourceGraphic"
-         operator="out" />
-      <feMorphology
-         id="feMorphology6248"
+         operator="out" /><feMorphology
+         id="feMorphology3150"
          operator="dilate"
          radius="1.3"
-         result="result3" />
-      <feTurbulence
-         id="feTurbulence6250"
+         result="result3" /><feTurbulence
+         id="feTurbulence3152"
          numOctaves="3"
          baseFrequency="0.08 0.05"
          type="fractalNoise"
          seed="7"
-         result="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur6252"
+         result="result6" /><feGaussianBlur
+         id="feGaussianBlur3154"
          stdDeviation="0.5"
-         result="result7" />
-      <feDisplacementMap
-         id="feDisplacementMap6254"
+         result="result7" /><feDisplacementMap
+         id="feDisplacementMap3156"
          in2="result7"
          in="result3"
          xChannelSelector="R"
          yChannelSelector="G"
          scale="3"
-         result="result4" />
-      <feComposite
-         id="feComposite6256"
+         result="result4" /><feComposite
+         id="feComposite3158"
          in2="result4"
          in="result4"
          k1="1"
          result="result2"
          operator="arithmetic"
-         k2="1" />
-      <feBlend
-         id="feBlend6258"
+         k2="1" /><feBlend
+         id="feBlend3160"
          in2="result4"
          mode="normal"
-         in="result2" />
-    </filter>
-    <filter
-       id="filter6260"
+         in="result2" /></filter><filter
+       id="filter3162"
        height="1.3"
        width="1.3"
        y="-0.15"
@@ -491,62 +405,51 @@
        inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
        inkscape:menu="Textures"
        inkscape:label="Silk carpet"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence6262"
+       color-interpolation-filters="sRGB"><feTurbulence
+         id="feTurbulence3164"
          type="turbulence"
          numOctaves="2"
          baseFrequency="0.01 0.11"
-         seed="10" />
-      <feColorMatrix
-         id="feColorMatrix6264"
+         seed="10" /><feColorMatrix
+         id="feColorMatrix3166"
          result="result5"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
-      <feComposite
-         id="feComposite6266"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " /><feComposite
+         id="feComposite3168"
          in2="result5"
          in="SourceGraphic"
-         operator="out" />
-      <feMorphology
-         id="feMorphology6268"
+         operator="out" /><feMorphology
+         id="feMorphology3170"
          operator="dilate"
          radius="1.3"
-         result="result3" />
-      <feTurbulence
-         id="feTurbulence6270"
+         result="result3" /><feTurbulence
+         id="feTurbulence3172"
          numOctaves="3"
          baseFrequency="0.08 0.05"
          type="fractalNoise"
          seed="7"
-         result="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur6272"
+         result="result6" /><feGaussianBlur
+         id="feGaussianBlur3174"
          stdDeviation="0.5"
-         result="result7" />
-      <feDisplacementMap
-         id="feDisplacementMap6274"
+         result="result7" /><feDisplacementMap
+         id="feDisplacementMap3176"
          in2="result7"
          in="result3"
          xChannelSelector="R"
          yChannelSelector="G"
          scale="3"
-         result="result4" />
-      <feComposite
-         id="feComposite6276"
+         result="result4" /><feComposite
+         id="feComposite3178"
          in2="result4"
          in="result4"
          k1="1"
          result="result2"
          operator="arithmetic"
-         k2="1" />
-      <feBlend
-         id="feBlend6278"
+         k2="1" /><feBlend
+         id="feBlend3180"
          in2="result4"
          mode="normal"
-         in="result2" />
-    </filter>
-    <filter
-       id="filter6280"
+         in="result2" /></filter><filter
+       id="filter3182"
        height="1.3"
        width="1.3"
        y="-0.15"
@@ -554,62 +457,51 @@
        inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
        inkscape:menu="Textures"
        inkscape:label="Silk carpet"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence6282"
+       color-interpolation-filters="sRGB"><feTurbulence
+         id="feTurbulence3184"
          type="turbulence"
          numOctaves="2"
          baseFrequency="0.01 0.11"
-         seed="10" />
-      <feColorMatrix
-         id="feColorMatrix6284"
+         seed="10" /><feColorMatrix
+         id="feColorMatrix3186"
          result="result5"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
-      <feComposite
-         id="feComposite6286"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " /><feComposite
+         id="feComposite3188"
          in2="result5"
          in="SourceGraphic"
-         operator="out" />
-      <feMorphology
-         id="feMorphology6288"
+         operator="out" /><feMorphology
+         id="feMorphology3190"
          operator="dilate"
          radius="1.3"
-         result="result3" />
-      <feTurbulence
-         id="feTurbulence6290"
+         result="result3" /><feTurbulence
+         id="feTurbulence3192"
          numOctaves="3"
          baseFrequency="0.08 0.05"
          type="fractalNoise"
          seed="7"
-         result="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur6292"
+         result="result6" /><feGaussianBlur
+         id="feGaussianBlur3194"
          stdDeviation="0.5"
-         result="result7" />
-      <feDisplacementMap
-         id="feDisplacementMap6294"
+         result="result7" /><feDisplacementMap
+         id="feDisplacementMap3196"
          in2="result7"
          in="result3"
          xChannelSelector="R"
          yChannelSelector="G"
          scale="3"
-         result="result4" />
-      <feComposite
-         id="feComposite6296"
+         result="result4" /><feComposite
+         id="feComposite3198"
          in2="result4"
          in="result4"
          k1="1"
          result="result2"
          operator="arithmetic"
-         k2="1" />
-      <feBlend
-         id="feBlend6298"
+         k2="1" /><feBlend
+         id="feBlend3200"
          in2="result4"
          mode="normal"
-         in="result2" />
-    </filter>
-    <filter
-       id="filter6300"
+         in="result2" /></filter><filter
+       id="filter3202"
        height="1.3"
        width="1.3"
        y="-0.15"
@@ -617,258 +509,214 @@
        inkscape:menu-tooltip="Silk carpet texture, horizontal stripes"
        inkscape:menu="Textures"
        inkscape:label="Silk carpet"
-       color-interpolation-filters="sRGB">
-      <feTurbulence
-         id="feTurbulence6302"
+       color-interpolation-filters="sRGB"><feTurbulence
+         id="feTurbulence3204"
          type="turbulence"
          numOctaves="2"
          baseFrequency="0.01 0.11"
-         seed="10" />
-      <feColorMatrix
-         id="feColorMatrix6304"
+         seed="10" /><feColorMatrix
+         id="feColorMatrix3206"
          result="result5"
-         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " />
-      <feComposite
-         id="feComposite6306"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 1.3 0 " /><feComposite
+         id="feComposite3208"
          in2="result5"
          in="SourceGraphic"
-         operator="out" />
-      <feMorphology
-         id="feMorphology6308"
+         operator="out" /><feMorphology
+         id="feMorphology3210"
          operator="dilate"
          radius="1.3"
-         result="result3" />
-      <feTurbulence
-         id="feTurbulence6310"
+         result="result3" /><feTurbulence
+         id="feTurbulence3212"
          numOctaves="3"
          baseFrequency="0.08 0.05"
          type="fractalNoise"
          seed="7"
-         result="result6" />
-      <feGaussianBlur
-         id="feGaussianBlur6312"
+         result="result6" /><feGaussianBlur
+         id="feGaussianBlur3214"
          stdDeviation="0.5"
-         result="result7" />
-      <feDisplacementMap
-         id="feDisplacementMap6314"
+         result="result7" /><feDisplacementMap
+         id="feDisplacementMap3216"
          in2="result7"
          in="result3"
          xChannelSelector="R"
          yChannelSelector="G"
          scale="3"
-         result="result4" />
-      <feComposite
-         id="feComposite6316"
+         result="result4" /><feComposite
+         id="feComposite3218"
          in2="result4"
          in="result4"
          k1="1"
          result="result2"
          operator="arithmetic"
-         k2="1" />
-      <feBlend
-         id="feBlend6318"
+         k2="1" /><feBlend
+         id="feBlend3220"
          in2="result4"
          mode="normal"
-         in="result2" />
-    </filter>
-  </defs>
-  <sodipodi:namedview
-     id="base"
+         in="result2" /></filter></defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2939573"
-     inkscape:cx="375"
-     inkscape:cy="520"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
      inkscape:window-width="1440"
      inkscape:window-height="850"
+     id="namedview2875"
+     showgrid="false"
+     inkscape:zoom="1.2642487"
+     inkscape:cx="185.625"
+     inkscape:cy="241.25"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata5026">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2883" /><g
+     id="g2883"
      inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       id="g5043"
-       transform="matrix(1.25,0,0,-1.25,-37.5,653.61218)" />
-    <g
-       id="g5045"
-       transform="matrix(1.25,0,0,-1.25,-37.5,653.61218)">
-      <g
-         id="g5047"
-         clip-path="url(#clipPath5049)">
-        <path
-           d="m 36,36 0,122 588,0 0,-122 -588,0 z"
-           style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-           id="path5053" />
-        <path
-           d="m 444.012,106 c 0,-10.152 -13.887,-18.387 -31.012,-18.387 -17.125,0 -31.012,8.235 -31.012,18.387 0,10.152 13.887,18.387 31.012,18.387 17.125,0 31.012,-8.235 31.012,-18.387 z"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6300)"
-           id="path5055" />
-        <text
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-           transform="matrix(1,0,0,-1,395.375,102.39844)"
-           id="text5057">
-          <tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-             x="0 6.7481174 10.500183 14.252249 21.000366 24.752432 28.504498"
-             y="0"
-             sodipodi:role="line"
-             id="tspan5059">1, 2, 3</tspan>
-        </text>
-        <path
-           d="m 619.008,106 c 0,-10.152 -27.762,-18.387 -62.008,-18.387 -34.246,0 -62.008,8.235 -62.008,18.387 0,10.152 27.762,18.387 62.008,18.387 34.246,0 62.008,-8.235 62.008,-18.387 z"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6220)"
-           id="path5061" />
-        <text
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-           transform="matrix(1,0,0,-1,507.875,102.39844)"
-           id="text5063">
-          <tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-             x="0 6.7481174 10.500183 14.252249 21.000366 24.752432 28.504498 35.252613 39.004681 42.756744 49.504864 56.252979 60.005047 63.757111 70.505226 77.253349 81.005409 84.757477 91.505592"
-             y="0"
-             sodipodi:role="line"
-             id="tspan5065">4, 5, 6, 18, 19, 20</tspan>
-        </text>
-        <path
-           sodipodi:nodetypes="cc"
-           d="m 444,106 c 15,0 33.43717,-3.4974 50.43717,-3.4974"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6280)"
-           id="path5067" />
-        <text
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-           transform="matrix(1,0,0,-1,462.25,111.39844)"
-           id="text5069">
-          <tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-             x="0 6.7481174"
-             y="0"
-             sodipodi:role="line"
-             id="tspan5071">15</tspan>
-        </text>
-        <path
-           d="m 186.012,112 c 0,-10.152 -32.692,-18.387 -73.012,-18.387 -40.32,0 -73.012,8.235 -73.012,18.387 0,10.152 32.692,18.387 73.012,18.387 40.32,0 73.012,-8.235 73.012,-18.387 z"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6160)"
-           id="path5073" />
-        <text
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-           transform="matrix(1,0,0,-1,53.375,108.39844)"
-           id="text5075">
-          <tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-             x="0 6.7481174 10.500183 14.252249 21.000366 24.752432 28.504498 35.252613 39.004681 42.756744 49.504864 56.252979 60.005047 63.757111 70.505226 77.253349 81.005409 84.757477 91.505592 98.253716 102.00578 105.75784 112.50596"
-             y="0"
-             sodipodi:role="line"
-             id="tspan5077">7, 8, 9, 10, 11, 12, 13</tspan>
-        </text>
-        <path
-           d="m 186,111 c 63,-1 150,-3 196,-4"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6240)"
-           id="path5079" />
-        <text
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-           transform="matrix(1,0,0,-1,273.25,113.39844)"
-           id="text5081">
-          <tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-             x="0 6.7481174"
-             y="0"
-             sodipodi:role="line"
-             id="tspan5083">16</tspan>
-        </text>
-        <path
-           d="m 172,123 c 18,2 38,5 56,7 96,8 121,10 216,3 24,-2 50,-8 71,-14"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6200)"
-           id="path5085" />
-        <text
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-           transform="matrix(1,0,0,-1,350.25,141.39844)"
-           id="text5087">
-          <tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-             x="0 6.7481174"
-             y="0"
-             sodipodi:role="line"
-             id="tspan5089">19</tspan>
-        </text>
-        <path
-           d="m 331.133,58 c 0,-10.152 -22.891,-18.387 -51.133,-18.387 -28.242,0 -51.133,8.235 -51.133,18.387 0,10.152 22.891,18.387 51.133,18.387 28.242,0 51.133,-8.235 51.133,-18.387 z"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6120)"
-           id="path5091" />
-        <text
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-           transform="matrix(1,0,0,-1,241.75,54.398438)"
-           id="text5093">
-          <tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-             x="0 6.7481174 13.496235 17.248301 21.000366 27.748484 34.496601 38.248665 42.000732 48.748848 55.496967 59.249031 63.001099 69.749214"
-             y="0"
-             sodipodi:role="line"
-             id="tspan5095">14, 15, 16, 17</tspan>
-        </text>
-        <path
-           d="m 154,97 c 16,-6 34,-12 50,-17 12,-4 24,-7 35,-11"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6140)"
-           id="path5097" />
-        <text
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-           transform="matrix(1,0,0,-1,203.625,85.398437)"
-           id="text5099">
-          <tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-             x="0"
-             y="0"
-             id="tspan5101">6</tspan>
-        </text>
-        <path
-           d="m 325,67 c 13,3 27,8 39,13 9,3 19,8 28,13"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6260)"
-           id="path5103" />
-        <text
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-           transform="matrix(1,0,0,-1,353.625,85.398437)"
-           id="text5105">
-          <tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-             x="0"
-             y="0"
-             id="tspan5107">9</tspan>
-        </text>
-        <path
-           d="m 331,54 c 32,-1 76,-1 113,7 29,5 60,18 82,29"
-           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter6180)"
-           id="path5109" />
-        <text
-           style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-           transform="matrix(1,0,0,-1,406.25,66.398438)"
-           id="text5111">
-          <tspan
-             style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
-             x="0 6.7481174"
-             y="0"
-             sodipodi:role="line"
-             id="tspan5113">11</tspan>
-        </text>
-      </g>
-    </g>
-  </g>
-</svg>
+     inkscape:label="qu.after"
+     transform="matrix(1.25,0,0,-1.25,0,482.5)"><g
+       id="g2885" /><path
+       d="m 36,36 0,314 225,0 0,-314 -225,0 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+       id="path2895" /><path
+       d="m 190.777,148 c 0,-9.941 -19.601,-18 -43.777,-18 -24.176,0 -43.777,8.059 -43.777,18 0,9.941 19.601,18 43.777,18 24.176,0 43.777,-8.059 43.777,-18 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3062)"
+       id="path2897" /><text
+       transform="scale(1,-1)"
+       id="text2899"
+       x="123.5"
+       y="-143.89844"
+       style="-inkscape-font-specification:IM FELL English;font-family:IM FELL English;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+         style="font-size:14.00024413999999950px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English;font-style:normal;font-stretch:normal"
+         x="123.5 133.24417 142.24632 146.7404 151.22049 160.96466"
+         y="-143.89844"
+         sodipodi:role="line"
+         id="tspan2901">B1, B2</tspan></text>
+<path
+       d="m 254.207,58 c 0,-9.941 -48,-18 -107.207,-18 -59.207,0 -107.207,8.059 -107.207,18 0,9.941 48,18 107.207,18 59.207,0 107.207,-8.059 107.207,-18 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3022)"
+       id="path2903" /><text
+       transform="scale(1,-1)"
+       id="text2905"
+       x="77.5"
+       y="-53.898438"
+       style="-inkscape-font-specification:IM FELL English;font-family:IM FELL English;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+         style="font-size:14.00024413999999950px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English;font-style:normal;font-stretch:normal"
+         x="77.5 87.244171 96.246323 100.7404 105.22048 114.96465 123.96681 128.46089 132.94096 142.69913 151.68729 156.18137 160.66144 170.41962 179.40778 183.90186 188.38194 198.14011 207.12827"
+         y="-53.898438"
+         sodipodi:role="line"
+         id="tspan2907">B3, B4, B8, B9, B10</tspan></text>
+<path
+       d="m 147,130 c 0,-16 -2.53115,-37.367213 -2.53115,-53.367213"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3042)"
+       id="path2909"
+       sodipodi:nodetypes="cc" /><text
+       transform="scale(1,-1)"
+       id="text2911"
+       x="148.89836"
+       y="-98.898438"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+         x="148.89836 157.90051"
+         y="-98.898438"
+         sodipodi:role="line"
+         id="tspan2913">15</tspan></text>
+<path
+       d="m 160,328 c 0,-9.941 -12.09,-18 -27,-18 -14.91,0 -27,8.059 -27,18 0,9.941 12.09,18 27,18 14.91,0 27,-8.059 27,-18 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3202)"
+       id="path2915" /><text
+       transform="scale(1,-1)"
+       id="text2917"
+       x="123.5"
+       y="-323.89844"
+       style="-inkscape-font-specification:IM FELL English;font-family:IM FELL English;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+         style="font-size:14.00024413999999950px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English;font-style:normal;font-stretch:normal"
+         x="123.5 133.24417"
+         y="-323.89844"
+         sodipodi:role="line"
+         id="tspan2919">B5</tspan></text>
+<path
+       d="m 134,310 c 3,-35 9,-110 12,-144"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3162)"
+       id="path2921" /><text
+       transform="scale(1,-1)"
+       id="text2923"
+       x="142.63278"
+       y="-237.69516"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+         x="142.63278 151.63493"
+         y="-237.69516"
+         sodipodi:role="line"
+         id="tspan2925">16</tspan></text>
+<path
+       d="M 124,311 C 107,276 73,195 94,130 c 7,-21 23,-41 35,-54"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3142)"
+       id="path2927" /><text
+       transform="scale(1,-1)"
+       id="text2929"
+       x="92.898361"
+       y="-188.89844"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+         x="92.898361 101.90052"
+         y="-188.89844"
+         sodipodi:role="line"
+         id="tspan2931">19</tspan></text>
+<path
+       d="m 256.777,238 c 0,-9.941 -19.601,-18 -43.777,-18 -24.176,0 -43.777,8.059 -43.777,18 0,9.941 19.601,18 43.777,18 24.176,0 43.777,-8.059 43.777,-18 z"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3122)"
+       id="path2933" /><text
+       transform="scale(1,-1)"
+       id="text2935"
+       x="189.5"
+       y="-233.89844"
+       style="-inkscape-font-specification:IM FELL English;font-family:IM FELL English;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
+         style="font-size:14.00024413999999950px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English;font-style:normal;font-stretch:normal"
+         x="189.5 199.24417 208.24632 212.7404 217.22049 226.96466"
+         y="-233.89844"
+         sodipodi:role="line"
+         id="tspan2937">B6, B7</tspan></text>
+<path
+       d="m 147,312 c 14,-16 36,-40 51,-57"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3182)"
+       id="path2939" /><text
+       transform="scale(1,-1)"
+       id="text2941"
+       x="179.76558"
+       y="-280.164"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+         x="179.76558"
+         y="-280.164"
+         id="tspan2943">6</tspan></text>
+<path
+       d="M 200,221 C 188,205 171,181 160,165"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3102)"
+       id="path2945" /><text
+       transform="scale(1,-1)"
+       id="text2947"
+       x="183.5"
+       y="-185.7345"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+         x="183.5"
+         y="-185.7345"
+         id="tspan2949">9</tspan></text>
+<path
+       d="m 213,220 c 0,-22 -2,-61 -13,-90 -8,-21 -24,-40 -36,-54"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none;filter:url(#filter3082)"
+       id="path2951" /><text
+       transform="scale(1,-1)"
+       id="text2953"
+       x="209.26558"
+       y="-142.00008"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"><tspan
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:IM FELL English;-inkscape-font-specification:IM FELL English"
+         x="209.26558 218.26773"
+         y="-142.00008"
+         sodipodi:role="line"
+         id="tspan2955">11</tspan></text>
+<g
+       id="g2957" /></g></svg>
