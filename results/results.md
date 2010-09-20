@@ -2,6 +2,8 @@
 
 # wyniki
 
+<div style='height: 1em;'></div>
+
 * dekompozycja dla trzech różnych architektur:<br />układ z komórkami 4/1, układ z komórkami 5/1<br />oraz układ z komórkami 5/1 i 4/2
 
 * porównanie z dwoma współczesnymi<br />narzędziami komercyjnymi
@@ -113,7 +115,7 @@
 
 # komórki 5/1 i 4/2, narzędzie A
 
-<table class='res' style='margin-top: -1.9em;'>
+<table class='res' style='margin-top: -0.5em;'>
   <thead>
     <tr><th>automat</th><th>art décomp</th><th>JEDI</th><th>random</th><th>NOVA</th><th>one-hot</th></tr>
   </thead>

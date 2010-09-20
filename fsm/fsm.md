@@ -2,7 +2,7 @@
 
 # automat skończony
 
-<table class='lay'>
+<table class='lay' style='margin-top: 6em;'>
   <tr>
     <td style='vertical-align: top;'>
       <table class='fsm'>
@@ -43,7 +43,7 @@
 
 # automat skończony
 
-<table class='lay'>
+<table class='lay' style='margin-top: 6em;'>
   <tr>
     <td style='vertical-align: top;'>
       <table class='fsm'>
@@ -84,7 +84,7 @@
 
 # automat skończony
 
-<table class='lay'>
+<table class='lay' style='margin-top: 6em;'>
   <tr>
     <td style='vertical-align: top;'>
       <table class='fsm'>

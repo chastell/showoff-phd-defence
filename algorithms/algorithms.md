@@ -2,7 +2,7 @@
 
 # dobór U i V
 
-<table class='lay'>
+<table class='lay' style='margin-top: 6em;'>
   <tr>
     <td>
       <ul>

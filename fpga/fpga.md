@@ -24,7 +24,7 @@
 
 # dekompozycja funkcjonalna
 
-<table class='lay'>
+<table class='lay' style='margin-top: 8em;'>
   <tr>
     <td>
       <ul>

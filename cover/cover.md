@@ -19,6 +19,8 @@
 
 # cel i teza rozprawy
 
+<div style='height: 2em;'></div>
+
 * nowa metoda implementacji<br />automatów skończonych<br />w układach FPGA
 
 * brak osobnego etapu kodowania stanów
