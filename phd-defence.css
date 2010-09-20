@@ -75,6 +75,10 @@ sup {
   border-right: dashed;
 }
 
+.fsm.state.encoded2 td:nth-child(3), .fsm.state.encoded2 td:nth-child(6), .fsm.state.encoded2 th:nth-child(3), .fsm.state.encoded2 th:nth-child(6) {
+  border-right: dashed;
+}
+
 .lay {
   margin: auto;
   width: 85%;
